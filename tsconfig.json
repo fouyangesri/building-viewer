@@ -19,8 +19,8 @@
     "baseUrl": ".",
     "moduleResolution": "node",
     "types": [ 
-      "dojo",
-      "./typings/arcgis-js-api-4.20"
+      "arcgis-js-api",
+      "dojo"
     ]
   },
   "include": [

@@ -330,8 +330,7 @@ export class FloorsSection extends Section {
             this.legendWrapper.legend.layerInfos = [
               {
                 layer: this.layer,
-                title: "Legend",
-                hideLayers: []
+                title: "Legend"
               }
             ];
           }
